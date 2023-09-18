@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Test for API Endpoints
+Description: </description>
+   <name>KAN-6 Test for API Endpoints</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10017&quot;:&quot;purple&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;EPIC_LINK_SHOULD_BE_USED&quot;,&quot;message&quot;:&quot;To set an epic as the parent, use the epic link instead&quot;}},&quot;customfield_10019&quot;:&quot;0|i00013:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://katalonjira.atlassian.net/&quot;,&quot;self&quot;:&quot;https://katalonjira.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://katalonjira.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;KAN&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Katalon Jira Integration&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Test for API Endpoints&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;bhagyeshnanwani221198@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Bhagyesh Nanwani&quot;,&quot;self&quot;:&quot;https://katalonjira.atlassian.net/rest/api/2/user?accountId\u003d712020%3A8e1e0876-2e3b-4922-80a1-cd10fa0fad37&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://katalonjira.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://katalonjira.atlassian.net/rest/api/2/issue/KAN-6/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://katalonjira.atlassian.net/rest/api/2/issue/10005&quot;,&quot;key&quot;:&quot;KAN-6&quot;,&quot;id&quot;:10005}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>f0f081da-ad95-441f-9545-622912545395</testCaseGuid>
+</TestCaseEntity>
